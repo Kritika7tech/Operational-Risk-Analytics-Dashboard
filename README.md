@@ -29,12 +29,12 @@ This dashboard provides a consolidated view of how AI-driven automation is resha
 - **Pie Chart:** Overall distribution of jobs across Low, Medium, and High automation-risk tiers  
 - **Heatmap (Matrix):** Locations × Industries colored by High Automation-Risk Count  
 - **Line Chart:** Industry-level Job Growth Projection vs. High Automation-Risk Percentage  
-- **Slicers & Filters:** Industry, Location, Company Size, Risk Level, Remote-Friendly  
+ 
 
 Each visual cross-filters the others, enabling drill-downs and rapid identification of critical risk areas.
 
 ## Interactivity & Alerts  
-- **Dynamic Slicers:** Narrow the view by any combination of industry, region, or risk tier.  
+  
 - **Custom Tooltips:** Hover to reveal job titles, required skills, average salary, and detailed risk scores.  
 - **Reference Lines & Conditional Formatting:** Visual thresholds that immediately flag metrics above acceptable risk levels.  
 - **Scheduled Data Refresh:** Automated updates ensure KRIs remain current, with configurable refresh cadence.
